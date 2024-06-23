@@ -1,0 +1,493 @@
+{
+  "portfolio": [
+    {
+      "id": 0,
+      "routesLink": "xazna-web",
+      "title_portfolio": "Xazna",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/xazna.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcveGF6bmEuanBnIiwiaWF0IjoxNzE3OTMyNTMyLCJleHAiOjE3NDk0Njg1MzJ9.ylJ-LNAb0QZY-yLiVHs2qNFvAEwauy9p6_JOEd6xi-Q&t=2024-06-09T11%3A35%3A37.043Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xaznaLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmFMb2dvLnN2ZyIsImlhdCI6MTcxODEwMTUxNywiZXhwIjoxNzQ5NjM3NTE3fQ.QBw-S0LMu80QQ57Il2y7mq0C2yzn-xKagzMy-frBDuk&t=2024-06-11T10%3A25%3A12.886Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmExLmpwZyIsImlhdCI6MTcxODA4ODE4MSwiZXhwIjoxNzQ5NjI0MTgxfQ._Q8z-DR82vEsACxYYAdKGuJbc8VJGgHUPVOgsJmogPc&t=2024-06-11T06%3A42%3A58.095Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEyLmpwZyIsImlhdCI6MTcxODA4ODM0NywiZXhwIjoxNzQ5NjI0MzQ3fQ.W3ibpVw9Z6SnrlAnRRfObt7un4zBaLtEynqXOXUgNJg&t=2024-06-11T06%3A45%3A44.094Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEzLmpwZyIsImlhdCI6MTcxODA4ODIzOSwiZXhwIjoxNzQ5NjI0MjM5fQ.K844EfijPBcq5D45eUniRbwrfKURsb7prK1gCTPgH3A&t=2024-06-11T06%3A43%3A56.767Z",
+      "detailPortfolio3": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEzLmpwZyIsImlhdCI6MTcxODA4ODIzOSwiZXhwIjoxNzQ5NjI0MjM5fQ.K844EfijPBcq5D45eUniRbwrfKURsb7prK1gCTPgH3A&t=2024-06-11T06%3A43%3A56.767Z",
+      "LinkVisitSites": "https://xazna.uz/"
+    },
+    {
+      "id": 1,
+      "routesLink": "xazna-app",
+      "title_portfolio": "Xazna App",
+      "title_web": "Mobile App",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/xaznaApp.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcveGF6bmFBcHAuanBnIiwiaWF0IjoxNzE3OTMyNTQ1LCJleHAiOjE3NDk0Njg1NDV9.etE22fu-9ez-TefUYRKLTUyot4oRYZNwflMlC8RcLVI&t=2024-06-09T11%3A35%3A49.809Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xaznaLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmFMb2dvLnN2ZyIsImlhdCI6MTcxODEwMTUxNywiZXhwIjoxNzQ5NjM3NTE3fQ.QBw-S0LMu80QQ57Il2y7mq0C2yzn-xKagzMy-frBDuk&t=2024-06-11T10%3A25%3A12.886Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmExLmpwZyIsImlhdCI6MTcxODA4ODE4MSwiZXhwIjoxNzQ5NjI0MTgxfQ._Q8z-DR82vEsACxYYAdKGuJbc8VJGgHUPVOgsJmogPc&t=2024-06-11T06%3A42%3A58.095Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEyLmpwZyIsImlhdCI6MTcxODA4ODM0NywiZXhwIjoxNzQ5NjI0MzQ3fQ.W3ibpVw9Z6SnrlAnRRfObt7un4zBaLtEynqXOXUgNJg&t=2024-06-11T06%3A45%3A44.094Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEzLmpwZyIsImlhdCI6MTcxODA4ODIzOSwiZXhwIjoxNzQ5NjI0MjM5fQ.K844EfijPBcq5D45eUniRbwrfKURsb7prK1gCTPgH3A&t=2024-06-11T06%3A43%3A56.767Z",
+      "detailPortfolio3": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/xazna3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcveGF6bmEzLmpwZyIsImlhdCI6MTcxODA4ODIzOSwiZXhwIjoxNzQ5NjI0MjM5fQ.K844EfijPBcq5D45eUniRbwrfKURsb7prK1gCTPgH3A&t=2024-06-11T06%3A43%3A56.767Z",
+      "LinkVisitSites": "https://play.google.com/store/apps/details?id=uz.tune.xazna&hl=ru&gl=US"
+    },
+    {
+      "id": 2,
+      "routesLink": "express24",
+      "title_portfolio": "Express24",
+      "title_web": "Mobile App",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/express24.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvZXhwcmVzczI0LmpwZyIsImlhdCI6MTcxNzkzMjU1NywiZXhwIjoxNzQ5NDY4NTU3fQ.easzDd7a9mOujohb2AyImRX9-TJYBt-38ZcmkUwPHj4&t=2024-06-09T11%3A36%3A01.347Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/express24Logo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvZXhwcmVzczI0TG9nby5zdmciLCJpYXQiOjE3MTgwODgwMzAsImV4cCI6MTc0OTYyNDAzMH0.8e5UoUMizAtKaLuzEfhYg4LMEkpM00erNzS-Gp_2eY0&t=2024-06-11T06%3A40%3A27.659Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/express24img1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvZXhwcmVzczI0aW1nMS5qcGciLCJpYXQiOjE3MTgwODgxNDQsImV4cCI6MTc0OTYyNDE0NH0.9-L5LhAH3_9qzKKwabKsi20Ujv-0pFbCf1gtvDHQdtA&t=2024-06-11T06%3A42%3A20.952Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/express24img2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvZXhwcmVzczI0aW1nMi5qcGciLCJpYXQiOjE3MTgwODgxNTMsImV4cCI6MTc0OTYyNDE1M30.6Z-08FqkU92YSAxhcWZ9KXI-V7-m-XMBhFQFKJWam5g&t=2024-06-11T06%3A42%3A30.637Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/express24img2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvZXhwcmVzczI0aW1nMi5qcGciLCJpYXQiOjE3MTgwODgxNTMsImV4cCI6MTc0OTYyNDE1M30.6Z-08FqkU92YSAxhcWZ9KXI-V7-m-XMBhFQFKJWam5g&t=2024-06-11T06%3A42%3A30.637Z",
+      "LinkVisitSites": "https://express24.uz/"
+
+    },
+    {
+      "id": 3,
+      "routesLink": "cashbox",
+      "title_portfolio": "Cawbox",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/cawbox.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvY2F3Ym94LmpwZyIsImlhdCI6MTcxNzkzMjU3MSwiZXhwIjoxNzQ5NDY4NTcxfQ.eumDUF6mvEbCl4hKKM42qEE0SG5HfVyujwGR3hL4iyk&t=2024-06-09T11%3A36%3A15.373Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/cashboxLogo.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvY2FzaGJveExvZ28ucG5nIiwiaWF0IjoxNzE4MDg3ODIyLCJleHAiOjE3NDk2MjM4MjJ9.u_vcIKdld_l-Yt04kFEMt-zA6Qsiflan9ruRxwDdGnU&t=2024-06-11T06%3A36%3A59.759Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/cashbox1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvY2FzaGJveDEuanBnIiwiaWF0IjoxNzE4MDg3OTc5LCJleHAiOjE3NDk2MjM5Nzl9.I3X7Wbw9Aenywx9qo5amEq8RS6ik6oxcWaLnXc3042s&t=2024-06-11T06%3A39%3A36.004Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/cashbox2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvY2FzaGJveDIuanBnIiwiaWF0IjoxNzE4MDg3OTg5LCJleHAiOjE3NDk2MjM5ODl9.Rinrn8pUdPc0AC9oc3vFSw4yYqBGnqNm6Xf7rudEN3U&t=2024-06-11T06%3A39%3A46.149Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/cashbox3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvY2FzaGJveDMuanBnIiwiaWF0IjoxNzE4MDg4MDAzLCJleHAiOjE3NDk2MjQwMDN9.UvGP0BL027PMQBeNcUa5oVH-6AsKUVSYaehlxkxJ1Kk&t=2024-06-11T06%3A40%3A00.667Z",
+      "LinkVisitSites": "https://e-cashbox.uz/"
+
+    },
+    {
+      "id": 4,
+      "routesLink": "Stesting",
+      "title_portfolio": "STesting",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/stesting.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvc3Rlc3RpbmcuanBnIiwiaWF0IjoxNzE3OTMyNTg1LCJleHAiOjE3NDk0Njg1ODV9.w5WCSKsgT5WvsiGsFjl5jXeI3xX5_FKOAftt9FRuc3Q&t=2024-06-09T11%3A36%3A29.770Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/stestingLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvc3Rlc3RpbmdMb2dvLnN2ZyIsImlhdCI6MTcxODA4Nzc4MywiZXhwIjoxNzQ5NjIzNzgzfQ.tm723igFY-1FOZ5iAOMa0wYJgAqq4LwbwEeZfEDYgEI&t=2024-06-11T06%3A36%3A20.211Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Stesting1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvU3Rlc3RpbmcxLmpwZyIsImlhdCI6MTcxODA4Nzc5OSwiZXhwIjoxNzQ5NjIzNzk5fQ.ucTjd4lb5-nxm3y3blHvobFzMvXEp0f2Jaj23195CDQ&t=2024-06-11T06%3A36%3A36.541Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Stesting2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvU3Rlc3RpbmcyLmpwZyIsImlhdCI6MTcxODA4NzgwOSwiZXhwIjoxNzQ5NjIzODA5fQ.pMhfZDg4Li6jCGEo_bsQDifN5tsupvCxe0g0uRJdHuE&t=2024-06-11T06%3A36%3A46.794Z",
+      "LinkVisitSites": "https://stesting.uz/ru"
+
+      
+    },
+    {
+      "id": 5,
+      "routesLink": "tdiu",
+      "title_portfolio": "TDIU",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TDIUA.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVERJVUEuanBnIiwiaWF0IjoxNzE4MDg3NzI5LCJleHAiOjE3NDk2MjM3Mjl9.C2qnIekpWlC69Urce75WT0PKCHe34Z-ZUmkh-RSv8ys&t=2024-06-11T06%3A35%3A26.153Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/tdiu.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvdGRpdS5zdmciLCJpYXQiOjE3MTgwODc3MDUsImV4cCI6MTc0OTYyMzcwNX0.O_3qkQ7r9c-MvQefBFMMNt1eTBPTg7yMKhc31Iv1ncY&t=2024-06-11T06%3A35%3A02.778Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TDIU1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVERJVTEuanBnIiwiaWF0IjoxNzE4MDg3NzM5LCJleHAiOjE3NDk2MjM3Mzl9.vkCuc7UmgR1BWAcQBlzI4fddfzUd49vRmPCoZZ4lLj0&t=2024-06-11T06%3A35%3A36.106Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TDIU2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVERJVTIuanBnIiwiaWF0IjoxNzE4MDg3NzQ5LCJleHAiOjE3NDk2MjM3NDl9.yFivYk3dNSh39huMSZ67SyYI8jpMQCVZnBgTdt8XEM4&t=2024-06-11T06%3A35%3A45.860Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TDIU3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVERJVTMuanBnIiwiaWF0IjoxNzE4MDg3NzU3LCJleHAiOjE3NDk2MjM3NTd9.HdpBSKTcWSXY2ciZnJSfEr2LdudzDXFk6lyNPr5hUdI&t=2024-06-11T06%3A35%3A54.777Z",
+      "detailPortfolio3": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TDIU4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVERJVTQuanBnIiwiaWF0IjoxNzE4MDg3NzY3LCJleHAiOjE3NDk2MjM3Njd9.uJplzPUE4RUyMiLG4XPYB7f15dHM-bYiyESPeQKhmrI&t=2024-06-11T06%3A36%3A04.132Z",
+      "LinkVisitSites": "https://tsue.uz/"
+
+    },
+    {
+      "id": 6,
+      "routesLink": "munir",
+      "title_portfolio": "Munir",
+      "title_web": "Mobile App",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/munir.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvbXVuaXIuanBnIiwiaWF0IjoxNzE3OTMyNjA5LCJleHAiOjE3NDk0Njg2MDl9.voBLOkYFCRnVCX6IDRGN-Z-S6HklSnhtoMEWiCyCUts&t=2024-06-09T11%3A36%3A53.695Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/munirLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvbXVuaXJMb2dvLnN2ZyIsImlhdCI6MTcxODA4NzY1NiwiZXhwIjoxNzQ5NjIzNjU2fQ.JQsvGQAb8ncTAPoAK5b2hUwleKV2aSnPjJS8Vf9q430&t=2024-06-11T06%3A34%3A13.780Z",
+      "detailPortfolio": "/public/assests/DetailImg/Munir1.jpg",
+      "detailPortfolio1": "/public/assests/DetailImg/Munir2.jpg",
+      "detailPortfolio2": "/public/assests/DetailImg/Munir3.jpg",
+      "LinkVisitSites": "https://munir.uz/"
+
+    },
+    {
+      "id": 7,
+      "routesLink": "uzbekistan-club",
+      "title_portfolio": "Uzbekistan's Club",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/Uzbekistonlik.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvVXpiZWtpc3Rvbmxpay5qcGVnIiwiaWF0IjoxNzE3OTMyNjIyLCJleHAiOjE3NDk0Njg2MjJ9.RS0JRYT5i5YUa3uosYhB-ZnhlBQaFe-ZxRZl4GlrSCM&t=2024-06-09T11%3A37%3A06.673Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/uzbekistonlikLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvdXpiZWtpc3Rvbmxpa0xvZ28uc3ZnIiwiaWF0IjoxNzE4MTAwNzg2LCJleHAiOjE3NDk2MzY3ODZ9.obXQmqEGeRqcFTnZi_KvgMKGWu2MGDuB5YjLpAK80Aw&t=2024-06-11T10%3A13%3A02.082Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Uzbekistonlikimg1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVXpiZWtpc3Rvbmxpa2ltZzEuanBnIiwiaWF0IjoxNzE4MDg3NTg5LCJleHAiOjE3NDk2MjM1ODl9.haEYaiVjFrz3Po4xk1TjvGhcD-M_P8loNbNm-_bfjoA&t=2024-06-11T06%3A33%3A06.186Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Uzbekistonlikimg2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVXpiZWtpc3Rvbmxpa2ltZzIuanBnIiwiaWF0IjoxNzE4MDg3NjA0LCJleHAiOjE3NDk2MjM2MDR9.5grqTU6mEpBpDhYm6dcFRaLqfw3LuSqu6DIHGbuxVxg&t=2024-06-11T06%3A33%3A21.608Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Uzbekistonlikimg3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVXpiZWtpc3Rvbmxpa2ltZzMuanBnIiwiaWF0IjoxNzE4MDg3NjEzLCJleHAiOjE3NDk2MjM2MTN9.CNX_0eSO7VBKlzUAjE0OBnDvkEk7LKiisjVevC2r1eo&t=2024-06-11T06%3A33%3A30.598Z",
+      "LinkVisitSites": "https://uzbekistans.club/"
+
+    },
+    {
+      "id": 8,
+      "routesLink": "marjon",
+      "title_portfolio": "Marjon",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/marjonImg.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvbWFyam9uSW1nLmpwZyIsImlhdCI6MTcxODEwMDc1MiwiZXhwIjoxNzQ5NjM2NzUyfQ.zNOAfaxU9O1eUp6zaNxAHoAfCTTOqGJWAvAO79hJOig&t=2024-06-11T10%3A12%3A28.400Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Marjon_logo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvTWFyam9uX2xvZ28uc3ZnIiwiaWF0IjoxNzE4MTAwNzE1LCJleHAiOjE3NDk2MzY3MTV9.00TQwdlzzAGZpUYeldGM1JrkWUs572GARlED19zetRs&t=2024-06-11T10%3A11%3A51.605Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Marjon1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvTWFyam9uMS5qcGciLCJpYXQiOjE3MTgxMDE4MjYsImV4cCI6MTc0OTYzNzgyNn0.nk0XrwVsHNjSgdde2-ZHapSW-DaThfcmcO4clSFiXWM&t=2024-06-11T10%3A30%3A23.020Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Marjon2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvTWFyam9uMi5qcGciLCJpYXQiOjE3MTgxMDA2OTQsImV4cCI6MTc0OTYzNjY5NH0.Y5DbttH9cPk_miWorfTlK7NfUKg0i7kL-6W4j_HaCkI&t=2024-06-11T10%3A11%3A30.687Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Marjon3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvTWFyam9uMy5qcGciLCJpYXQiOjE3MTgxMDA3MDUsImV4cCI6MTc0OTYzNjcwNX0.DwI_IxtSMBxABSD-_Lyq2cDOEXD_mH6KDdsKl8VdtHg&t=2024-06-11T10%3A11%3A41.496Z",
+      "LinkVisitSites": "https://marjon.uz/ru"
+
+    },
+    {
+      "id": 9,
+      "routesLink": "cyber-park",
+      "title_portfolio": "Cyber Park",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/portfolio-img/CybrPark.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL3BvcnRmb2xpby1pbWcvQ3liclBhcmsuanBlZyIsImlhdCI6MTcxNzkzMjY1MCwiZXhwIjoxNzQ5NDY4NjUwfQ.A44deyCgTc_BfgrabGWt1PllUn7lUw1PZF4z220mGzg&t=2024-06-09T11%3A37%3A34.528Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/cyberLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvY3liZXJMb2dvLnN2ZyIsImlhdCI6MTcxODA4NzY0MCwiZXhwIjoxNzQ5NjIzNjQwfQ.d2FB4PpuBVaofW8ePEYcMM69W0N3yOtFLoYIJcNwEq4&t=2024-06-11T06%3A33%3A57.528Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/CyberPark1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQ3liZXJQYXJrMS5qcGciLCJpYXQiOjE3MTgxMDA2MTQsImV4cCI6MTc0OTYzNjYxNH0.9qQufyQR4Y2mMADKlwrhdSXioSpb4Hn6vVBG_rbPtkc&t=2024-06-11T10%3A10%3A10.629Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/CyberPark2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQ3liZXJQYXJrMi5qcGciLCJpYXQiOjE3MTgxMDA2MzksImV4cCI6MTc0OTYzNjYzOX0.Ibyr9T1BglHovh7hT5pnGSzUYjAmS_K0LuUfh-U-pOM&t=2024-06-11T10%3A10%3A34.795Z",
+      "detailPortfoli2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/CyberPark3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQ3liZXJQYXJrMy5qcGciLCJpYXQiOjE3MTgxMDA2NTEsImV4cCI6MTc0OTYzNjY1MX0.RHCKpwfjRtKaJWi37T-sWhel5ZNHJlW4jzJ7bFDViCs&t=2024-06-11T10%3A10%3A47.168Z",
+      "LinkVisitSites": "https://cyberpark.uz/"
+    },
+    {
+      "id": 10,
+      "routesLink": "anatomica",
+      "title_portfolio": "Anotomica",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/AnatomikaImg.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQW5hdG9taWthSW1nLmpwZyIsImlhdCI6MTcxODEwMDI3NCwiZXhwIjoxNzQ5NjM2Mjc0fQ.gJO9FX2jSyOHoas6Oy685Z9Bd9VcCGCAFogpp6DWaco&t=2024-06-11T10%3A04%3A30.419Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/anatomicLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvYW5hdG9taWNMb2dvLnN2ZyIsImlhdCI6MTcxODEwMDMwNSwiZXhwIjoxNzQ5NjM2MzA1fQ.Jco9Ae3kAYB2TNzJ1W7cU4xlksu-qLda7vTohnesTGU&t=2024-06-11T10%3A05%3A01.775Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Anatomika1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQW5hdG9taWthMS5qcGciLCJpYXQiOjE3MTgxMDAyMjMsImV4cCI6MTc0OTYzNjIyM30.dIek0vz2DQakOFeR7BTRrh8QMGVgAhCfICDxMiWJPtI&t=2024-06-11T10%3A03%3A39.717Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Anatomika2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQW5hdG9taWthMi5qcGciLCJpYXQiOjE3MTgxMDAyMzcsImV4cCI6MTc0OTYzNjIzN30.n5t1dwN9cOBj2HmpWjnFkD4eUtacnj8Tx0W1oyoSjP0&t=2024-06-11T10%3A03%3A53.309Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Anatomika3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvQW5hdG9taWthMy5qcGciLCJpYXQiOjE3MTgxMDAyNTEsImV4cCI6MTc0OTYzNjI1MX0.GFXWEsLmmxSSyROL23QGMKpWo4UZfM3dvKZRgLID4-M&t=2024-06-11T10%3A04%3A06.859Z",
+      "LinkVisitSites": "https://anatomica.uz/uz/about"
+    },
+    {
+      "id": 11,
+      "routesLink": "one-net",
+      "title_portfolio": "One Net",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/OneNet3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvT25lTmV0My5qcGciLCJpYXQiOjE3MTgxMDAzNTMsImV4cCI6MTc0OTYzNjM1M30.ZDLSvAhKLqXF1672UbaKra4muMr1iDr9xyTvXfzP6oI&t=2024-06-11T10%3A05%3A48.933Z",
+      "detailPortfolioLogo": "/public/assests/DetailImg/oneNetLogo.svg",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/OneNet1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvT25lTmV0MS5qcGciLCJpYXQiOjE3MTgxMDAzMjUsImV4cCI6MTc0OTYzNjMyNX0.DCaYme4YKl921CcWsLVqn1p44QniAaOqKBb5dJ9aeRw&t=2024-06-11T10%3A05%3A20.962Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/OneNet2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvT25lTmV0Mi5qcGciLCJpYXQiOjE3MTgxMDAzNDEsImV4cCI6MTc0OTYzNjM0MX0.s7sF5KoydWQXDnFCzubdHRsaqL4F3Rp2tGgs4sK-j_Q&t=2024-06-11T10%3A05%3A37.791Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/OneNet3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvT25lTmV0My5qcGciLCJpYXQiOjE3MTgxMDAzNTMsImV4cCI6MTc0OTYzNjM1M30.ZDLSvAhKLqXF1672UbaKra4muMr1iDr9xyTvXfzP6oI&t=2024-06-11T10%3A05%3A48.933Z",
+      "LinkVisitSites": "https://one-net.uz/"
+    },
+    {
+      "id": 12,
+      "routesLink": "toshkent-parfum",
+      "title_portfolio": "Toshkent Parfum",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/ToshkentPrfumImg.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVG9zaGtlbnRQcmZ1bUltZy5qcGciLCJpYXQiOjE3MTgxMDA0NTEsImV4cCI6MTc0OTYzNjQ1MX0.lVMnRCjsTk8yYyTZuQGvCG80HoEFae5ty1GN-BlkKeE&t=2024-06-11T10%3A07%3A27.549Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/toshkentParfumLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvdG9zaGtlbnRQYXJmdW1Mb2dvLnN2ZyIsImlhdCI6MTcxODEwMDQ3MSwiZXhwIjoxNzQ5NjM2NDcxfQ.ZByUcj1Xa0wiyQ4hSQhk_NYwCqvCC1iUlGUcq1Y3sjM&t=2024-06-11T10%3A07%3A47.667Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Parfum1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvUGFyZnVtMS5qcGciLCJpYXQiOjE3MTgxMDAzODQsImV4cCI6MTc0OTYzNjM4NH0.Jlnn0NdvmxkVRAT7e5P8UdfO6AHXwPlYbskb_Mh2L-o&t=2024-06-11T10%3A06%3A20.395Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Parfum2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvUGFyZnVtMi5qcGciLCJpYXQiOjE3MTgxMDAzOTUsImV4cCI6MTc0OTYzNjM5NX0.VYFKImnvKzwk10GVMOXyBbCWZNZJmYIArhLvza2xqx8&t=2024-06-11T10%3A06%3A31.486Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/Parfum3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvUGFyZnVtMy5qcGciLCJpYXQiOjE3MTgxMDA0MzQsImV4cCI6MTc0OTYzNjQzNH0.UX0uQ-a4GkmC1xgU0wfijrK1T9Lm_thnhCqRrWKqQmY&t=2024-06-11T10%3A07%3A10.420Z",
+      "LinkVisitSites": "https://toshkent-parfum.uz/uz"
+
+    },
+    {
+      "id": 13,
+      "routesLink": "tmc-institute",
+      "title_portfolio": "TMIC",
+      "title_web": "Website",
+      "images": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/tmicLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvdG1pY0xvZ28uc3ZnIiwiaWF0IjoxNzE4MTAwNDg2LCJleHAiOjE3NDk2MzY0ODZ9.11-H2maER4zKQPb_BAnEKoDpYyL_A4pJ4CqIVWQh-IU&t=2024-06-11T10%3A08%3A02.499Z",
+      "detailPortfolioLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/tmicLogo.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvdG1pY0xvZ28uc3ZnIiwiaWF0IjoxNzE4MTAwNDg2LCJleHAiOjE3NDk2MzY0ODZ9.11-H2maER4zKQPb_BAnEKoDpYyL_A4pJ4CqIVWQh-IU&t=2024-06-11T10%3A08%3A02.499Z",
+      "detailPortfolio": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TMIC1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVE1JQzEuanBnIiwiaWF0IjoxNzE4MTAwNTIxLCJleHAiOjE3NDk2MzY1MjF9.K231IBHhljrU_hPmgJnizQ3meE2Wmn83Ya2T0QlsIGU&t=2024-06-11T10%3A08%3A37.333Z",
+      "detailPortfolio1": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TMIC2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVE1JQzIuanBnIiwiaWF0IjoxNzE4MTAwNTUyLCJleHAiOjE3NDk2MzY1NTJ9.SjTO5O3Ia2xek82-8pFn-ultK8w6Szp4ycSvmnKFRXs&t=2024-06-11T10%3A09%3A08.122Z",
+      "detailPortfolio2": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TMIC3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVE1JQzMuanBnIiwiaWF0IjoxNzE4MTAwNTYxLCJleHAiOjE3MjA2OTI1NjF9.I8iz25n_44_xVBWbaCmuYJQan3B6evO0KoMRguEqJoo&t=2024-06-11T10%3A09%3A17.716Z",
+      "detailPortfolio3": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Detail-img/TMIC4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL0RldGFpbC1pbWcvVE1JQzQuanBnIiwiaWF0IjoxNzE4MTAwNTcyLCJleHAiOjE3NDk2MzY1NzJ9.VigTL9zCRMglw_9KuXUh3krPzQna3UFC-NcvBYobjho&t=2024-06-11T10%3A09%3A28.502Z",
+      "LinkVisitSites": "https://tmci.uz/"
+
+    }
+  ],
+  "partnyors": [
+    {
+      "name": "Asakabank",
+      "url": "https://www.asakabank.uz/uz/physical-persons/home",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/asakabank.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9hc2FrYWJhbmsuc3ZnIiwiaWF0IjoxNzE3OTMyNzUwLCJleHAiOjE3NDk0Njg3NTB9.BxFBti61WgYq0p1SBULuI5cXv6mpEWaZNt0svrBX8qc&t=2024-06-09T11%3A39%3A14.739Z"
+    },
+    {
+      "name": "AKt",
+      "url": "https://mitc.uz/uz/pages/information_technologies",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/AKT.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9BS1Quc3ZnIiwiaWF0IjoxNzE3OTMyNzYyLCJleHAiOjE3NDk0Njg3NjJ9.oZEVnLBn-zDR0uAcYY9B_fCqxLndG1hxD6tALvIeGao&t=2024-06-09T11%3A39%3A27.073Z"
+    },
+    {
+      "name": "Avloniy",
+      "url": "https://avloniy.uz/ru",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/Avloniy.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9Bdmxvbml5LnN2ZyIsImlhdCI6MTcxNzkzMjc3NSwiZXhwIjoxNzQ5NDY4Nzc1fQ.oUL8whjZc8z9pFG9Y6R_iv_xnJS8tyAgv88Pccg9J9I&t=2024-06-09T11%3A39%3A39.719Z"
+    },
+    {
+      "name": "AZ Capital",
+      "url": "https://accapital.io/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/Az_Capital.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9Bel9DYXBpdGFsLnBuZyIsImlhdCI6MTcxNzkzMjc4OCwiZXhwIjoxNzQ5NDY4Nzg4fQ.ArOcPrx3ibvqvRVzbHZ7KQlwasx7AaucLcYE0i-9fXo&t=2024-06-09T11%3A39%3A52.912Z"
+    },
+    {
+      "name": "Express 24",
+      "url": "https://express24.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/Express_24.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9FeHByZXNzXzI0LnN2ZyIsImlhdCI6MTcxNzkzMjgwMCwiZXhwIjoxNzQ5NDY4ODAwfQ.bRK7WHasF1dJWF_EZ0Ln27d88y7y3h-ET0qPy5cvMDY&t=2024-06-09T11%3A40%3A04.821Z"
+    },
+    {
+      "name": "IT Park",
+      "url": "https://it-park.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/IT_park.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9JVF9wYXJrLnN2ZyIsImlhdCI6MTcxNzkzMjgxMywiZXhwIjoxNzQ5NDY4ODEzfQ.N71odliVMwCVA6ib7pogvxRWAfd5MzU27K67sFoFfwo&t=2024-06-09T11%3A40%3A17.247Z"
+    },
+    {
+      "name": "Milli Gvardiya",
+      "url": "https://www.milliygvardiya.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/milliy_Gvardiya.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9taWxsaXlfR3ZhcmRpeWEuc3ZnIiwiaWF0IjoxNzE3OTMyOTIwLCJleHAiOjE3NDk0Njg5MjB9.j57yrt_WoHuoIxlPaLeknjyVo1fij_R6hYUbmsVXIIc&t=2024-06-09T11%3A42%3A05.198Z"
+    },
+    {
+      "name": "PM",
+      "url": "https://projectmanagers.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/PM.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9QTS5zdmciLCJpYXQiOjE3MTc5MzI5MDEsImV4cCI6MTc0OTQ2ODkwMX0.pTks7z7gTW7LkraW0PRilyevswZ_zYCXxHcrhMlDjDY&t=2024-06-09T11%3A41%3A45.348Z"
+    },
+    {
+      "name": "ProServices",
+      "url": "https://prosm.uz/e",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/Pro_SM.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9Qcm9fU00uc3ZnIiwiaWF0IjoxNzE3OTMyOTQ2LCJleHAiOjE3NDk0Njg5NDZ9.y6kN_r-I4E_5wIIxHhD-OFHcM0oGMsq6bnHXoHZfEiI&t=2024-06-09T11%3A42%3A31.112Z"
+    },
+    {
+      "name": "TDIU",
+      "url": "https://tsue.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/TDIU.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9URElVLnN2ZyIsImlhdCI6MTcxNzkzMjk2NiwiZXhwIjoxNzQ5NDY4OTY2fQ.xAQAIiLgRnMSyZGISkImx1a3gdwjNvRpTekNXX8Oth0&t=2024-06-09T11%3A42%3A50.575Z"
+    },
+    {
+      "name": "UzCard",
+      "url": "https://uzcard.uz/ru",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/Uzcard.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9VemNhcmQuc3ZnIiwiaWF0IjoxNzE3OTMyOTc4LCJleHAiOjE3NDk0Njg5Nzh9.apXdBvGwNq8FA17vF1M8gRHyO8zcMcBBAINy2l2sKr4&t=2024-06-09T11%3A43%3A02.538Z"
+    },
+    {
+      "name": "Yoshlar Ishlar Agent",
+      "url": "https://yoshlar.gov.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/yoshlarAgent.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy95b3NobGFyQWdlbnQuc3ZnIiwiaWF0IjoxNzE3OTMyOTkwLCJleHAiOjE3NDk0Njg5OTB9.CssY-Wg0ijnJoHqh2-ciXXn9j5c0KtO3h-U3Sivhg9M&t=2024-06-09T11%3A43%3A14.573Z"
+    },
+    {
+      "name": "Top Music",
+      "url": "https://top-music.live/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/TOP_Music.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9UT1BfTXVzaWMuc3ZnIiwiaWF0IjoxNzE3OTMzMDA0LCJleHAiOjE3NDk0NjkwMDR9.6kL3Mp5THRlMWPf_2BXyj-LZakamJuTXNTrKEQMAeWc&t=2024-06-09T11%3A43%3A28.337Z"
+    },
+    {
+      "name": "TMIC",
+      "url": "https://tmci.uz/en",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/TMUniver.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9UTVVuaXZlci5zdmciLCJpYXQiOjE3MTc5MzMwMTUsImV4cCI6MTc0OTQ2OTAxNX0.MC__Vp8ZECSI7848pUoVDXO50lHV8M8dSHQvZ6Z4_HU&t=2024-06-09T11%3A43%3A40.188Z"
+    },
+    {
+      "name": "Cyber Park",
+      "url": "https://cyberpark.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/CyberPark.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9DeWJlclBhcmsucG5nIiwiaWF0IjoxNzE3OTMzMDI4LCJleHAiOjE3NDk0NjkwMjh9.yv_a8saJPh92JNGW5G9zoExnB1bye-M2NN5-g3j1-2U&t=2024-06-09T11%3A43%3A52.867Z"
+    },
+    {
+      "name": "Uzbekistan Club",
+      "url": "https://uzbekistans.club/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/UzbekistanClub.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9VemJla2lzdGFuQ2x1Yi5zdmciLCJpYXQiOjE3MTc5MzMwNTIsImV4cCI6MTc0OTQ2OTA1Mn0.CQdux6u0B5mUPdu9nwEOdZsNPFChQACIgChnyRWgS7c&t=2024-06-09T11%3A44%3A16.845Z"
+    },
+    {
+      "name": "Zo'r TV",
+      "url": "https://zortv.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/zor_tv.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy96b3JfdHYuc3ZnIiwiaWF0IjoxNzE3OTMzMDY0LCJleHAiOjE3NDk0NjkwNjR9.0j1sH3Z5sycL9SUZ2Ra_EYRWw5kxZpkKuIzEpY9qPJg&t=2024-06-09T11%3A44%3A28.932Z"
+    },
+    {
+      "name": "G-EMx",
+      "url": "https://g-emx.com/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/GEM.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9HRU0uc3ZnIiwiaWF0IjoxNzE3OTMzMDg0LCJleHAiOjE3NDk0NjkwODR9.Gml-I1Eb5JOTlhiJP-j8lkUDjKw6KFFMMCLxUesC-Uw&t=2024-06-09T11%3A44%3A48.914Z"
+    },
+    {
+      "name": "Sello",
+      "url": "https://sello.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/SELLO.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9TRUxMTy5zdmciLCJpYXQiOjE3MTc5MzMwOTgsImV4cCI6MTc0OTQ2OTA5OH0.E0CiMn5neeuqzJtZDeMu2o7cGWOSgiRjlpfy3eD1jyc&t=2024-06-09T11%3A45%3A02.674Z"
+    },
+    {
+      "name": "Paylow",
+      "url": "https://paylov.uz/",
+      "imageLogo": "https://ptiuaaoxezklmpprwjpx.supabase.co/storage/v1/object/sign/data/Partnyor-img/paylov.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYXRhL1BhcnRueW9yLWltZy9wYXlsb3Yuc3ZnIiwiaWF0IjoxNzE3OTMzMTExLCJleHAiOjE3NDk0NjkxMTF9.GqUshjbbSOMXU-rmiFb_1zlWMEUpGiy3yJ-JIw42ooM&t=2024-06-09T11%3A45%3A15.857Z"
+    }
+  ],
+  "vacansyData": [
+    {
+      "id": 1,
+      "title": "Flutter Developer",
+      "workPrice": "10 mln - 20 mln",
+      "talab1": "Flutter yordamida platformalararo mobil ilovalarni ishlab chiqish;",
+      "talab2": "Foydalanuvchi interfeysining ishlashi va sezgirligini optimallashtirish;",
+      "talab3": "Backend xizmatlari bilan integratsiya va API bilan o'zaro aloqalar;",
+      "vazifa1": "Flutter yordamida mobil ilovalarni ishlab chiqishda kamida 1 yillik tajriba;",
+      "vazifa2": "Flutter v2.5+ va Dart v2.15+ bilan tajriba;",
+      "vazifa3": "Rest API, GraphQL, WebSocket bilan ishlash qobiliyati;",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart3": "Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;",
+      "shart4": "Ish uchun qulayliklarga ega zamonaviy ofis;"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX designer",
+      "workPrice": "10 mln - 20 mln",
+      "talab1": "Interfeys dizayni (UI) va foydalanuvchi tajribasi (UX) bo'yicha tajriba;",
+      "talab2": "Sketch, Figma, Framer, Adobe Family (PS, AI) yoki boshqa analoglar kabi dizayn vositalarini bilish;",
+      "talab3": "Mobil qurilmalar uchun maketlar yaratish tajribasi va ularning dizayn xususiyatlarini tushunish;",
+      "vazifa1": "Zamonaviy tendentsiyalar va dizayn standartlarini hisobga olgan holda foydalanuvchi interfeyslarini (UI) ishlab chiqish;",
+      "vazifa2": "Veb va mobil ilovalar uchun maketlar, prototiplar va vizualizatsiyalarni yaratish;",
+      "vazifa3": "Dizayn yaxlitligi va foydalanuvchi tajribasini ta'minlash uchun mahsulot jamoasi va ishlab chiquvchilar bilan ishlash;",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Jamoada do'stona va qo'llab-quvvatlovchi muhit, muntazam jamoaviy tadbirlar, jamoa qurish, shu jumladan marafonlar va kvizlar;",
+      "shart3": "Kompaniya o'zining tirishqoq xodimlariga ishlash uchun eng zamonaviy va sifatli uskunalarni taqdim etadi;",
+      "shart4": "Ish uchun qulayliklarga ega zamonaviy ofis;"
+    },
+    {
+      "id": 3,
+      "title": "Backend Developer (Python)",
+      "workPrice": "8 mln - 15 mln",
+      "talab1": "Python va Django tajribasi kamida 1,5 yil;",
+      "talab2": "Mikro-xizmat echimlarini ishlab chiqish va sun'iy intellekt modellari bilan integratsiya;",
+      "talab3": "Python 3, Django, Django Rest framework, Celery, PostgreSQL, JavaScript bilan ishlash bo'yicha bilim va ko'nikmalar;",
+      "vazifa1": "API-ni ishlab chiqish va sinovdan o'tkazish: dastur tarkibiy qismlari o'rtasida samarali ishlash uchun API yaratish va sinovdan o'tkazish;",
+      "vazifa2": "Python, Django-da loyihalar ustida ishlash: Python va Django-ga asoslangan turli xil murakkablik darajasidagi loyihalarni ishlab chiqishda ishtirok etish;",
+      "vazifa3": "Yosh jamoa a'zolarini qo'llab-quvvatlash: yosh ishlab chiquvchilarga yordam berish va qo'llab-quvvatlash va kamchiliklarni aniqlash uchun loyihalarni tekshirish;",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Korporativ ta'lim va treninglar;",
+      "shart3": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart4": "O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;"
+    },
+    {
+      "id": 4,
+      "title": "Project Manager",
+      "workPrice": "15 mln - 20 mln",
+      "talab1": "Axborot texnologiyalari sohasida loyihalarni boshqarish tajribasi;",
+      "talab2": "Loyihani boshqarish metodologiyasini tushunish (Agile, Scrum, Waterfall va boshqalar);",
+      "talab3": "Jamoani samarali boshqarish va muloqot qilish qobiliyati;",
+      "vazifa1": "Loyihaning boshidan oxirigacha hayot tizimini rejalashtirish, muvofiqlashtirish va boshqarish;",
+      "vazifa2": "Mijozlar bilan ishlash va ularning ehtiyojlarini aniqlash;",
+      "vazifa3": "Loyiha hujjatlarini, jumladan rejalar, hisobotlar va spetsifikatsiyalarni tayyorlash va saqlash.",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Korporativ ta'lim va treninglar;",
+      "shart3": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart4": "O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;"
+    },
+    {
+      "id": 5,
+      "title": "Frontend developer (Vue.js)",
+      "workPrice": "5 mln - 10 mln",
+      "talab1": "Mavjud loyihalarni qo'llab-quvvatlash va takomillashtirish, shuningdek, yangi funksiyalarni joriy etish;",
+      "talab2": "Boshqa ishlab chiquvchilar, QA testerlari, backend dasturchilari va UI/UX dizaynerlari bilan jamoaviy ish;",
+      "vazifa1": "Dastur tuzilishini bilish PWA(Progressive Web App), SPA(Single Page Application), SSR(Server-Side Rendering ), MF (Mutual Funds);",
+      "vazifa2": "2 yildan ortiq ish tajribasi.(1 yildan ortiq faol rivojlanish);",
+      "vazifa3": "JavaScript va uning asosiy tushunchalarini bilish (prototipik meros, hodisalar tsikli, yopilish, bu kalit so'z va boshqalar).;",
+      "vazifa4": "Axios va API bilan ishlash qobiliyati;",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Korporativ ta'lim va treninglar;",
+      "shart3": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart4": "O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;"
+    },
+    {
+      "id": 6,
+      "title": "Frontend developer (React.js)",
+      "workPrice": "10 mln - 20 mln",
+      "talab1": "React yordamida yuqori sifatli foydalanuvchi interfeyslarini ishlab chiqish.js va tegishli texnologiyalar;",
+      "talab2": "Frontend qismini backend xizmatlari va API bilan birlashtirish;",
+      "talab3": "Loyihaning umumiy maqsadlariga erishish uchun dizaynerlar va boshqa jamoa a'zolari bilan yaqin hamkorlik.",
+      "vazifa1": "Mavjud loyihalarni qo'llab-quvvatlash va takomillashtirish, shuningdek, yangi funksiyalarni joriy etish;",
+      "vazifa2": "Boshqa ishlab chiquvchilar, QA testerlari, backend dasturchilari va UI/UX dizaynerlari bilan jamoaviy ish.",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Korporativ ta'lim va treninglar;",
+      "shart3": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart4": "O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;"
+    },
+    {
+      "id": 7,
+      "title": "QA Engineer",
+      "workPrice": "15 mln - 20 mln",
+      "talab1": "Dasturiy ta'minotni sinovdan o'tkazish tajribasi.",
+      "talab2": "Sinov metodologiyalarini bilish va dasturiy ta'minotni ishlab chiqishning hayotiy tsiklini tushunish.",
+      "talab3": "Sinovlarni avtomatlashtirish asoslarini tushunish va avtomatlashtirish vositalari bilan ishlash tajribasi (masalan, Selenium, Appium, JUnit, TestNG).",
+      "vazifa1": "Kamida 1 yillik ish tajribasi. ",
+      "vazifa2": "Funktsional, regressiya, integratsiya va boshqa turdagi testlarni bajarish.",
+      "vazifa3": "Mahsulotning sifatli chiqarilishini ta'minlash uchun ishlab chiquvchilar, tahlilchilar va boshqa jamoa a'zolari bilan o'zaro aloqalar.",
+      "shart1": "Ish vaqti 5/2 kun, soat 09:00 dan 18:00 gacha;",
+      "shart2": "Korporativ ta'lim va treninglar;",
+      "shart3": "Qiziqarli loyihalarni ishlab chiqish uchun professional jamoa bilan ishlash imkoniyati;",
+      "shart4": "O'z vaqtidagi ish haqi, shu jumladan ajoyib natijalar uchun bonus tizimi;"
+    }
+  ],
+  "servicesData": [
+    {
+      "id": 1,
+      "types": "webistes",
+      "title": {
+        "eng": "Websites",
+        "uz": "Veb-saytlar",
+        "ru": "Веб-сайты"
+      },
+      "infoTitle": {
+        "eng": "We develop websites of various complexities from corporate sites to web applications with quality assurance.",
+        "uz": "Korporativ veb saytlardan tortib veb ilovalargacha bo‘lgan murakkablikdagi internet saytlarni sifat kafolati bilan ishlab chiqamiz",
+        "ru": "Мы разрабатываем веб-сайты различной сложности: от корпоративных сайтов до веб-приложений с гарантией качества."
+      }
+    },
+    {
+      "id": 2,
+      "types": "mobile-app",
+      "title": {
+        "eng": "Mobile Applications",
+        "uz": "Mobil Ilovalar",
+        "ru": "Мобильные приложения"
+      },
+      "infoTitle": {
+        "eng": "Development and technical support of mobile applications of any complexity.",
+        "uz": "Istalgan qiyinchilikdagi mobil ilovalarni ishlab chiqish va ularni texnik qo‘llab-quvvatlash",
+        "ru": "Разработка и техническая поддержка мобильных приложений любой сложности."
+      }
+    },
+    {
+      "id": 3,
+      "types": "ui_ux_design",
+      "title": {
+        "eng": "UI/UX Design",
+        "uz": "UI/UX dizayn",
+        "ru": "UI/UX дизайн"
+      },
+      "infoTitle": {
+        "eng": "Developing project MindMap and designing optimal solutions based on this architecture.",
+        "uz": "Loyiha MindMapʼini ishlab chiqish va ushbu arxitektura asosida optimal yechimga ega dizaynlarni chizish",
+        "ru": "Разработка MindMap проекта и проектирование оптимальных решений на основе этой архитектуры."
+      }
+    },
+    {
+      "id": 4,
+      "types": "media-production",
+      "title": {
+        "eng": "Media Production",
+        "uz": "Media production",
+        "ru": "Медиа производство"
+      },
+      "infoTitle": {
+        "eng": "Professional preparation of 2D/3D animation, project presentation, advertisement, video materials, and other media resources.",
+        "uz": "2D/3D animatsiya, loyiha taqdimoti, reklamasi, videomateriallar va boshqa media resurslarni professional tarzda tayyorlash",
+        "ru": "Профессиональная подготовка 2D/3D анимации, презентаций проектов, рекламы, видеоматериалов и других медиа ресурсов."
+      }
+    },
+    {
+      "id": 5,
+      "types": "crm_systems",
+      "title": {
+        "eng": "CRM Systems",
+        "uz": "CRM Systems",
+        "ru": "CRM системы"
+      },
+      "infoTitle": {
+        "eng": "Developing management electronic systems that automate business processes and reduce paperwork by up to 100%.",
+        "uz": "Biznesni va jarayonlarni avtomatlashtirish, kanselyariya ishlarini 100% gacha kamaytiruvchi boshqaruv elektron tizimlarini ishlab chiqish",
+        "ru": "Разработка управленческих электронных систем, автоматизирующих бизнес-процессы и сокращающих бумажную работу до 100%."
+      }
+    },
+    {
+      "id": 6,
+      "types": "logo-branding",
+      "title": {
+        "eng": "Logo and Branding",
+        "uz": "Logo va brending",
+        "ru": "Логотип и брендинг"
+      },
+      "infoTitle": {
+        "eng": "Creating essential tools and marketing materials from scratch to promote a business.",
+        "uz": "Biznesni ilgari surish uchun asosiy vositalar va marketing materiallari to‘plamini noldan yaratish.",
+        "ru": "Создание основных инструментов и маркетинговых материалов с нуля для продвижения бизнеса."
+      }
+    },
+    {
+      "id": 7,
+      "types": "cybersecurity",
+      "title": {
+        "eng": "Cybersecurity",
+        "uz": "Kiberxavfsizlik",
+        "ru": "Кибербезопасность"
+      },
+      "infoTitle": {
+        "eng": "Identifying and fixing vulnerabilities in networks, devices, codes, and data.",
+        "uz": "Tarmoqlar, qurilmalar, kodlar va ma'lumotlardagi zaifliklarni topish va tuzatish.",
+        "ru": "Обнаружение и устранение уязвимостей в сетях, устройствах, кодах и данных."
+      }
+    }
+  ]
+}

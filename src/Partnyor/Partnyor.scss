@@ -1,0 +1,183 @@
+.Partnyor-Parent-Child {
+  background-color: black;
+  .Titlte-Partnoyr {
+    .title-fonts {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 19px;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #00a795;
+      padding-top: 120px;
+    }
+    .Title {
+      padding: 20px 0px;
+      font-size: 45px;
+      font-weight: 700;
+      line-height: 43px;
+      color: white;
+      padding-bottom: 70px;
+    }
+  }
+  .Partnyor-list-Parent {
+    max-width: 100%;
+    padding-bottom: 100px;
+    .Grid-Partnyor {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(210px, 210px));
+      justify-content: center;
+      gap: 30px;
+      .grid-partnyor-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        filter: grayscale(100%);
+        background-color: rgb(37 37 39);
+        border-radius: 10px;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 0.3s;
+        &:hover {
+          filter: grayscale(0%);
+        }
+        a {
+          text-decoration: none;
+        }
+        article {
+          width: 100% !important;
+          height: 150px !important;
+          padding: 4px;
+          img {
+            max-width: 170px;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+          }
+        }
+      }
+    }
+  }
+
+  .swiper {
+    display: none;
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 1174px) {
+  .Partnyor-Parent-Child {
+    .Partnyor-list-Parent {
+      max-width: 95%;
+      margin: auto;
+      .Grid-Partnyor {
+        grid-template-columns: repeat(4, minmax(250px, 220px));
+        gap: 15px;
+        transition: all 1s;
+      }
+    }
+  }
+}
+
+@media (max-width: 1038px) {
+  .Partnyor-Parent-Child {
+    .Titlte-Partnoyr {
+      .title-fonts {
+        font-size: 14px;
+        padding-top: 50px;
+      }
+      .Title {
+        font-size: 43px;
+        padding-bottom: 50px;
+      }
+    }
+    .Partnyor-list-Parent {
+      max-width: 95%;
+      margin: auto;
+      .Grid-Partnyor {
+        grid-template-columns: repeat(3, minmax(250px, 220px));
+        gap: 15px;
+        transition: all 1s;
+      }
+    }
+  }
+}
+
+@media (max-width: 886px) {
+  .Partnyor-Parent-Child {
+    .Partnyor-list-Parent {
+      display: none;
+    }
+    .swiper {
+      position: relative;
+      left: 0;
+      top: 0;
+      display: block;
+      max-width: 95%;
+      .swiper-wrapper {
+        display: flex;
+        gap: 20px;
+        padding: 50px 0px;
+        .swiper-slide {
+          width: 260px !important;
+          height: 100px !important;
+          padding: 10px !important;
+          background-color: rgb(53, 52, 52) !important;
+          margin: 0 !important;
+          border-radius: 10px;
+          img {
+            width: 100% !important;
+            height: 100% !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+@media (max-width:  1200px){
+  .Partnyor-Parent-Child{
+    .Titlte-Partnoyr{
+      padding: 0px 15px;
+    }
+  }
+}
+
+@media (max-width: 880px){
+  .title-fonts{
+    font-size: 16px !important;
+  }
+  .Title{
+    font-size: 33px !important;
+    padding: 10px 0px !important;
+  }
+}
+
+@media (max-width: 400px){
+  .title-fonts{
+    font-size: 14px !important;
+  }
+  .Title{
+    padding: 8px 0px !important;
+    font-size: 28px !important;
+  }
+}
